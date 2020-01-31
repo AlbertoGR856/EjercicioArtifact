@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.github.AlbertoGR856</groupId>
             <artifactId>EjercicioArtifact</artifactId>
-            <version>Version1</version>
+            <version>Version2</version>
         </dependency>
     </dependencies>
     <properties>
